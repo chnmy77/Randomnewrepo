@@ -1,0 +1,2 @@
+Enter the value of a and b
+The sum of two numbers is:42
